@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">تطبيق متعدد اللغات </string>
+    <string name="action_settings">الضبط</string>
+
+    <string name="welcome">مرحبا بك !</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">الدخول</string>
+    <string name="signup">ليس لديك حساب ؟ تسجيل دخول</string>
+
+</resources>
