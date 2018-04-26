@@ -11,7 +11,7 @@ public class ApiClient {
 
     // used to get instance of retrofit
 
-    public static final String BASE_URL = "http://10.0.2.2/ContactsJson/"; // the base url of the json
+    public static final String BASE_URL = "http://192.168.1.4/ContactsJson/"; // the base url of the json
     public static Retrofit retrofit = null;
 
     public static Retrofit getApiClient(){ // to create the retrofit instance
@@ -21,5 +21,4 @@ public class ApiClient {
         }
         return retrofit;
     }
-
 }
